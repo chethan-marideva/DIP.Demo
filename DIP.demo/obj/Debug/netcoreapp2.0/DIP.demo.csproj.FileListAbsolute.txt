@@ -1,0 +1,11 @@
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\bin\Debug\netcoreapp2.0\DIP.demo.deps.json
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\bin\Debug\netcoreapp2.0\DIP.demo.runtimeconfig.json
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\bin\Debug\netcoreapp2.0\DIP.demo.runtimeconfig.dev.json
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\bin\Debug\netcoreapp2.0\DIP.demo.dll
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\bin\Debug\netcoreapp2.0\DIP.demo.pdb
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\obj\Debug\netcoreapp2.0\DIP.demo.csprojAssemblyReference.cache
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\obj\Debug\netcoreapp2.0\DIP.demo.csproj.CoreCompileInputs.cache
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\obj\Debug\netcoreapp2.0\DIP.demo.AssemblyInfoInputs.cache
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\obj\Debug\netcoreapp2.0\DIP.demo.AssemblyInfo.cs
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\obj\Debug\netcoreapp2.0\DIP.demo.dll
+C:\Users\cm6\Desktop\Code\DIP.demo\DIP.demo\obj\Debug\netcoreapp2.0\DIP.demo.pdb
